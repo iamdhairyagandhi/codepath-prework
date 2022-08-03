@@ -24,15 +24,6 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/a/reRGOpc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://imgur.com/a/reRGOpc.gif'/>
-
-GIF created with [Recordit](https://recordit.co).
-
 ## Notes
 
 Describe any challenges encountered while building the app.
